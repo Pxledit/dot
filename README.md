@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>✨Tue Nhan's dot files✨</h1>
+    <h1>✨ dot files✨</h1>
     <h3></h3>
 </div>
 
