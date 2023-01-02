@@ -71,7 +71,7 @@
 > Clone the repos
 
 ```zsh
-git clone https://github.com/iamverysimp1e/dots
+git clone https://github.com/komi7/dot
 cd dots/.config
 ```
 
